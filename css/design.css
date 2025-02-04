@@ -10975,7 +10975,7 @@ footer {
         justify-content: center;
         align-items: center;
         color: #0d0802;
-        background-color: #fdf8f3;
+        background-color: #f3f6fd;
         border: none;
         border-radius: 0 0 20px 20px;
         text-align: center;
@@ -11156,7 +11156,7 @@ footer {
       width: 32%;
       border-right: 3px solid #fff;
       padding: 1rem;
-      background-color: #fdf8f3;
+      background-color: #f3f6fd;
       text-align: center; }
       @media only screen and (max-width: 767px) {
         .mode .wrap .box-topranking td {
@@ -11301,7 +11301,7 @@ footer {
               font-size: 1.1rem; } }
   .mode .rank2 .box {
     border-top: 5px solid #004db4;
-    background-color: #fdf8f3; }
+    background-color: #f3f6fd; }
     .mode .rank2 .box .tab-ttl-list-item-1 {
       background-color: #fef8f6;
       border-radius: 5px 5px 0 0; }
@@ -11394,7 +11394,7 @@ footer {
     background-color: #fff847;
     color: #0d0802; }
   .mode .rank-simple .box .box-inner .detail-info .simple-campain-wrapper {
-    background-color: #fefdf4; }
+    background-color: #f7fcff; }
     .mode .rank-simple .box .box-inner .detail-info .simple-campain-wrapper-list-item-num {
       background-color: #fff847;
       color: #0d0802; }
