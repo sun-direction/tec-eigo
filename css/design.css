@@ -11078,8 +11078,16 @@ footer {
           .mode .wrap .howto-com-fukidashi .big {
             font-size: 2rem; } }
   .mode .wrap .howto-container {
+    /* 2025-02-05: 横スクロール修正のため変更
+    修正前:
     max-width: 650px;
-    margin: 0 auto; }
+    margin: 0 auto; 
+    */
+    width: 100%;
+    max-width: 100%;
+    overflow: hidden;
+    padding: 0;
+    }
     @media only screen and (max-width: 767px) {
       .mode .wrap .howto-container {
         width: 54rem; } }
