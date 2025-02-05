@@ -1603,7 +1603,7 @@
               justify-content: center;
               align-items: center;
               text-align: center;
-              background-color: #004db4;
+              background-color: #000064;
               color: #fff;
               font-weight: bold;
               padding: .5rem; }
@@ -10813,7 +10813,7 @@ footer {
                 justify-content: center;
                 align-items: center;
                 text-align: center;
-                background-color: #004db4;
+                background-color: #000064;
                 color: #fff;
                 font-weight: bold;
                 padding: .5rem; }
@@ -10961,7 +10961,7 @@ footer {
         .mode .wrap .type-list-inner-ttl-big {
           font-size: 1.8rem; }
         .mode .wrap .type-list-inner-ttl-y {
-          background-color: #004db4;
+          background-color: #000064;
           color: #fff; }
         .mode .wrap .type-list-inner-ttl-g {
           background-color: #dbdbdb;
@@ -11157,7 +11157,7 @@ footer {
         padding: 0 .5rem;
         margin: 3rem 0 2rem; } }
     .mode .wrap .box-topranking th {
-      background-color: #004db4;
+      background-color: #000064;
       color: #fff;
       padding: .5rem; }
     .mode .wrap .box-topranking td {
@@ -11248,7 +11248,7 @@ footer {
         display: inline-block;
         width: .8rem;
         height: .8rem;
-        background: #004db4;
+        background: #000064;
         content: '';
         border-radius: 50px; }
         @media only screen and (max-width: 767px) {
@@ -11308,7 +11308,7 @@ footer {
             .mode .wrap .box-topranking-point-inner-txt {
               font-size: 1.1rem; } }
   .mode .rank2 .box {
-    border-top: 5px solid #004db4;
+    border-top: 5px solid #000064;
     background-color: #f3f6fd; }
     .mode .rank2 .box .tab-ttl-list-item-1 {
       background-color: #fef8f6;
@@ -11393,9 +11393,9 @@ footer {
             .mode .rank2 .box-tab .iconimg-3:before {
               left: .5rem; } }
   .mode .rank-simple .box .box-inner .detail-info-inner .point-ttl {
-    background-color: #004db4; }
+    background-color: #000064; }
   .mode .rank-simple .box .box-inner .detail-info-inner .point-inner-num {
-    background-color: #004db4; }
+    background-color: #000064; }
   .mode .rank-simple .box .box-inner .detail-info .spec-inner-wrapper dt {
     background-color: #e8e8e8; }
   .mode .rank-simple .box .box-inner .detail-info .simple-campain-ttl {
@@ -11407,23 +11407,23 @@ footer {
       background-color: #fff847;
       color: #0d0802; }
   .mode .rank-simple .box .box-inner .detail-info-ttl {
-    background-color: #004db4;
+    background-color: #000064;
     color: #fff; }
   .mode .bestsearch {
     background-color: #fcf2e8; }
     .mode .bestsearch-ttl {
-      color: #004db4; }
+      color: #000064; }
     .mode .bestsearch-form-wrap-sankaku:after {
       border-color: #fcf2e8 transparent transparent transparent; }
     .mode .bestsearch-form-submit input {
-      background: #004db4;
-      border: 1px solid #004db4;
+      background: #000064;
+      border: 1px solid #000064;
       color: #fff; }
       .mode .bestsearch-form-submit input:hover {
         background-color: #fff;
-        color: #004db4; }
+        color: #000064; }
     .mode .bestsearch select {
-      color: #004db4; }
+      color: #000064; }
 
 @keyframes mode-btn {
   0% {
