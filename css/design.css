@@ -10956,18 +10956,18 @@ footer {
         font-weight: bold;
         color: #fff;
         font-size: 1.2rem;
-        background-color: #0d0802;
+        background-color: #529cff;
         border-radius: 20px 20px 0 0; }
         .mode .wrap .type-list-inner-ttl-big {
           font-size: 1.8rem; }
         .mode .wrap .type-list-inner-ttl-y {
-          background-color: #000064;
+          background-color: #ff3b3b;
           color: #fff; }
         .mode .wrap .type-list-inner-ttl-g {
-          background-color: #dbdbdb;
-          color: #0d0802; }
+          background-color: #529cff;
+          color: #fff; }
         .mode .wrap .type-list-inner-ttl-w {
-          background-color: #81b7ff; }
+          background-color: #529cff; }
       .mode .wrap .type-list-inner-content {
         padding: 1.5rem 1rem;
         display: flex;
